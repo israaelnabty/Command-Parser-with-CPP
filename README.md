@@ -2,4 +2,4 @@
 
 ## Description 
 
-This is a simple c++ code that reads user commands from the command prompt and react upon these commands.
+This is a simple C++ code that reads user commands from the command prompt and react upon these commands.
